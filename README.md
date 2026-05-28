@@ -1,3 +1,3 @@
 # demo
-first prg
-first repo
+My first progrm 
+Also first repo
